@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: I like baking, and I am pretty good at it~
 
-👯 I am a full time Financial Data Analyst, and part-time Data Analytic master student in UIS. 
+👯 I am a full time BI Developer, and part-time Data Analytic master student in UIS. 
+
+
